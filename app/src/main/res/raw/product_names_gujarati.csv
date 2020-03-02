@@ -1,0 +1,315 @@
+,,,
+Sr. NO,ID,ENGLISH,GUJARATI
+1,1,Highway Pack,હાઈવે પૅક 
+2,2,Special Highway Pack,સ્પે. હાઈવે પૅક
+3,3,Big Standy Pack,બિગ સ્ટૅન્ડી પૅક
+4,4,250 Gram,250 ગ્રામ
+5,5,500 Gram,500 ગ્રામ
+6,6,1 Kilogram,1 કિલોગ્રામ
+7,7,Namkeen,નમકીન
+8,8,Fryums,ફ્રાયમ્સ
+9,9,Krunchips,ક્રંચીપ્સ
+10,10,Bitzz,બીટ્ઝ
+11,11,Khakhra,ખાખરા
+12,12,Sweets,સ્વીટ્સ
+13,13,Fried Cashew,ફ્રાઇડ કૅશ્યુ
+14,14,Peanuts,પીનટ્સ
+15,15,Jar,જાર
+16,16,Mini Standy Pack,મિની સ્ટૅન્ડી પૅક
+17,17,Magic Wafer,મેજીક વેફર
+18,18,Plus,પ્લસ
+19,19,Tingles,ટિંગલ્સ
+20,20,Lite,લાઇટ
+21,21,Tin,ટિન
+22,22,Tobacco,ટોબેકો
+23,23,Food Products,ફૂડ પ્રોડક્ટ્સ
+24,24,Big Pouch,બિગ પાઉચ
+25,25,Mini Pouch,મિની પાઉચ
+26,26,Pouch,પાઉચ
+27,27,Zipper Pouch,ઝીપ્પર પાઉચ
+28,28,Box,બોક્સ
+29,29,Mrp-5,એમઆરપી-5
+30,30,Mrp-10,એમઆરપી-10
+31,31,Mrp-15,એમઆરપી-15
+32,32,Mrp-20,એમઆરપી-20
+33,33,Mrp-25,એમઆરપી-25
+34,34,Mrp-30,એમઆરપી-30
+35,35,Mrp-35,એમઆરપી-35
+36,36,Mrp-40,એમઆરપી-40
+37,37,Mrp-45,એમઆરપી-45
+38,38,Mrp-50,એમઆરપી-50
+39,39,New Order,નવો ઓર્ડર
+40,40,Close,બંધ
+41,41,Confirm,કન્ફર્મ
+42,42,Other,અન્ય
+43,43,Cancel,રદ કરો
+44,44,Okay,બરાબર
+45,45,Carton,કાર્ટન
+46,46,Dozen,ડઝન
+47,47,Box,પેટ્ટી
+48,48,Unit,નંગ
+49,49,Date,તારીખ
+50,50,Time,સમય
+51,51,Confirm Order,કન્ફર્મ ઑર્ડર
+52,52,Add Products,પ્રાૅડક્ટ્ ઉમેરો
+53,53,Review Order,ઑર્ડર સમીક્ષા
+54,54,Order History,ઑર્ડર હિસ્ટ્રી
+55,55,Yes,હા
+56,56,No,ના    
+57,57,Edit,ફેરફાર કરો
+58,58,Approve,મંજૂર કરો
+59,59,Release,સક્રિય કરો
+60,60,Hold,સ્થગિત કરો
+61,61,Edit Order,ઓર્ડર બદલો
+62,62,Check in,ચેક ઇન
+63,63,Check out,ચેક આઉટ
+64,64,Order,ઑર્ડર
+65,65,Payment,ચૂકવણી
+66,66,Continue,ચાલુ રાખો
+67,67,Product Details,પ્રાૅડક્ટ્ ની વિગત
+68,68,Details,ડિટેઈલ્સ
+69,69,Details,વર્ણન
+70,70,MRP,એમ આર પી
+71,71,Scheme,સ્કિમ
+72,72,Tax,ટૅક્સ
+73,73,Update Order,ઑર્ડર ફેરફાર
+74,74,Cancel Order,ઑર્ડર રદ કરો
+75,75,Approve ,ઑર્ડર મંજૂર કરો
+76,76,Hold ,સ્થગિત ઑર્ડર
+77,77,Cancel,કેન્સલ કરો
+78,78,Review Order,રિવ્યૂ ઓર્ડર
+79,79,Review Order,ઓર્ડર બતાવો
+80,80,New Order,ઓર્ડર મોકલો
+81,81,Cancel Order,ઓર્ડર કેન્સલ કરો
+82,82,Hold,ઓર્ડર હોલ્ડ પર મુકો
+83,83,Approve,ઓર્ડર અપ્રુવ કરો
+84,84,Dispatch,ઓર્ડર ડીસપેચ કરો
+85,85,Add Invoice,ઈન્વોઈસ જોડો
+86,86,Payment,પેમેન્ટ
+87,87,Payment,પેમેન્ટ કરો
+88,88,Pouch,પડીકા
+89,89,Box,લડી
+90,90,Box,બાંધો
+91,91,Rate,ભાવ
+92,92,pack,પેક
+93,93,Kilo,કિલો
+94,94,Select Company,કંપની પસંદ કરો
+95,95,Route,રૂટ
+96,96,Cancel Route,રૂટ રદ કરો
+97,97,Go Offline,ઑફલાઇન જાઓ
+98,98,Sev,સેવ
+99,99,Aaloo Lachha Mast Chat,આલૂ લચ્છા મસ્ત ચાટ  
+100,100,Aaloo Sev,આલૂ સેવ    
+101,101,Aaloo Sev Mini,આલૂ સેવ  મિની   
+102,102,Aaloo Sev Special Highway,આલૂ સેવ  સ્પેશ્યલ હાઈવે  
+103,103,Aaloo Sev Highway,આલૂ સેવ  હાઈવે  
+104,104,A 2 Z Masala,એ ૨ ઝેડ મસાલા  
+105,105,Cashew Masala,કાજુ મસાલા  
+106,106,Cashew Saulted,કાજુ સોલ્ટેડ  
+107,107,Masala Kela Wafer,મસાલા કેળા વેફર
+108,108,Kela Wafer,કેળા વેફર  
+109,109,Kela Wafer Special Highway,કેળા વેફર  સ્પેશ્યલ હાઈવે  
+110,110,Mari Kela Wafers,મારી કેળા વેફર
+111,111,Kela Wafer Highway,કેળા વેફર  હાઈવે  
+112,112,Krunchips Noodles,ક્રંચીપ્સ  નૂડલ્સ  
+113,113,Krunchips Cream Onion,ક્રંચીપ્સ ક્રીમ ઑનીયન  
+114,114,Krunchips Tomato,ક્રંચીપ્સ ટમેટો  
+115,115,Krunchips Tomato Special Highway,ક્રંચીપ્સ ટમેટો  સ્પેશ્યલ હાઈવે  
+116,116,Krunchips Tomato Highway,ક્રંચીપ્સ ટમેટો  હાઈવે  
+117,117,Krunchips Farali ,ક્રંચીપ્સ ફરાળી  
+118,118,Krunchips Masala ,ક્રંચીપ્સ મસાલા  
+119,119,Krunchips Masala Special Highway,ક્રંચીપ્સ મસાલા  સ્પેશ્યલ હાઈવે  
+120,120,Krunchips Masala Highway,ક્રંચીપ્સ મસાલા  હાઈવે  
+121,121,Krunchips Salted ,ક્રંચીપ્સ સૉલ્ટેડ  
+122,122,Krunchips Salted Special Highway,ક્રંચીપ્સ સૉલ્ટેડ  સ્પેશ્યલ હાઈવે  
+123,123,Krunchips Salted Highway,ક્રંચીપ્સ સૉલ્ટેડ  હાઈવે  
+124,124,Khatta Mitha Mix,ખટ્ટા મીઠા મીક્સ    
+125,125,Khatta Mitha Mix Mini,ખટ્ટા મીઠા મીક્સ  મિની   
+126,126,Khatta Mitha Mix Special Highway,ખટ્ટા મીઠા મીક્સ સ્પેશ્યલ હાઈવે  
+127,127,Khatta Mitha Mix Highway,ખટ્ટા મીઠા મીક્સ હાઈવે  
+128,128,Chatpata Masala,ચટપટા મસાલા  
+129,129,Chana Jor Garam,ચના જોર ગરમ    
+130,130,Chana Jor Garam Mini,ચના જોર ગરમ  મિની   
+131,131,Chana Dal,ચના દાલ    
+132,132,Chana Dal Mini,ચના દાલ  મિની   
+133,133,Chana Dal Special Highway,ચના દાલ  સ્પેશ્યલ હાઈવે  
+134,134,Chana Dal Highway,ચના દાલ  હાઈવે  
+135,135,Bitzz Masala,બીટ્ઝ મસાલા
+136,136,Bitzz Mast Chilli,બીટ્ઝ મસ્ત ચીલી 
+137,137,Bitzz Mast Chutney ,બીટ્ઝ મસ્ત ચટની 
+138,138,Bitzz Mast Tomato,બીટ્ઝ મસ્ત ટમેટો
+139,139,Methi Khakhra,મેથી ખાખરા
+140,140,Jira Khakhra,જીરા ખાખરા  
+141,141,Jhalmuri,ઝલમુરી  
+142,142,Jhalmuri Mirchi,ઝલમુરી મીર્ચી  
+143,143,Tikha Mitha Mix ,તીખા મીઠા મીક્સ  
+144,144,Tikha Mitha Mix Mini,તીખા મીઠા મીક્સ  મિની   
+145,145,Tikha Mitha Mix Special Highway,તીખા મીઠા મીક્સ સ્પેશ્યલ હાઈવે  
+146,146,Tikha Mitha Mix  Highway,તીખા મીઠા મીક્સ  હાઈવે  
+147,147,Tikhi Sev,તીખી સેવ  
+148,148,Dal Muth,દાલ મુઠ    
+149,149,Dal Muth Mini,દાલ મુઠ  મિની   
+150,150,Dal Sev,દાલ સેવ  
+151,151,Nadiyadi Mix,નડીયાદી મીક્સ    
+152,152,Nadiyadi Mix,નડીયાદી મીક્સ  મિની   
+153,153,Nadiyadi Mix Special Highway,નડીયાદી મીક્સ  સ્પેશ્યલ હાઈવે  
+154,154,Nadiyadi Mix Highway,નડીયાદી મીક્સ  હાઈવે  
+155,155,Naylon Gathiya, નાયલોન ગાંઠીયા   
+156,156,Papdi, પાપડી
+157,157,Farali Chiwda Tikha, ફરાળી ચેવડા તીખા
+158,158,Farali Chiwda Mitha, ફરાળી ચેવડા મીઠા 
+159,159,Sev Mamra Lasaniya ,સેવ મમરા લસણીયા
+160,160,Lemon Bhel,લૅમન ભેળ
+161,161,Sev Mamra,સેવ મમરા
+162,162,Shakarpara Mitha,શક્કરપારા મીઠા
+163,163,Shakarpara Jeera,શક્કરપારા જીરા
+164,164,Magic Puri,મૅજિક પુરી
+165,165,Bikaneri Sev, બિકાનેરી સેવ
+166,166,Bundi Mutter Masala, બુંદી મટર મસાલા 
+167,167,Bhavnagari Gathiya, ભાવનગરી ગાંઠીયા  
+168,168,Masala Gathiya, મસાલા ગાંઠીયા 
+169,169,Mung Dal, મૂંગ દાલ 
+170,170,Rajwadi Mix, રજવાડી મીક્ષ 
+171,171,Shing Bhujia , શીંગ ભુજીયા 
+172,172,Naylon Gathiya,નાયલોન ગાંઠીયા    
+173,173,Naylon Gathiya Mini,નાયલોન ગાંઠીયા  મિની   
+174,174,Peanuts Chat Masala,પીનટ્સ ચાટ મસાલા  
+175,175,Peanuts Masala,પીનટ્સ મસાલા  
+176,176,Yo Wheels Tomato,યો વ્હીલ્સ ટમેટો
+177,177,Yo Wheels Masala,યો વ્હીલ્સ મસાલા
+178,178,Peanuts Salted ,પીનટ્સ સૉલ્ટેડ  
+179,179,Penne Masala ,પેને મસાલા  
+180,180,Penne Yummy Pizza,પેને યમ્મી પિત્ઝા  
+181,181,Ringz Tasty Noodles,રીંગ્ઝ ટેસ્ટી નૂડલ્સ
+182,182,Ringz Yummy Pizza,રીંગ્ઝ યમ્મી પિત્ઝા
+183,183,Popcorn Saulted,પૉપકોર્ન સૉલ્ટેડ
+184,184,Masala Khakhra,મસાલા ખાખરા
+185,185,Plain Khakhra,પ્લેઇન ખાખરા  
+186,186,Farali Chiwda Mitha Special Highway,ફરાળી ચેવડા મીઠા સ્પેશ્યલ હાઈવે  
+187,187,Farali Chiwda Mitha Highway,ફરાળી ચેવડા મીઠા  હાઈવે  
+188,188,Gulab Jamun ,ગુલાબ જામુન 
+189,189,Rasgulla ,રસગુલ્લા 
+190,190,Soan Papadi Traditional,સોન પાપડી ટ્રેડિશનલ 
+191,191,Soan Papadi Orange,સોન પાપડી ઑરેંજ 
+192,192,Soan Papadi Coconut ,સોન પાપડી કોકોનટ
+193,193,Soan Papadi Chocolate,સોન પાપડી ચૉકલેટ
+194,194,Soya Chips,સોયા ચીપ્સ
+195,195,Bhakharwadi,ભાખરવડી
+196,196,Soya Sticks,સોયા સ્ટીકસ
+197,197,Rajwadi Farali Chiwda,રજવાડી ફરાળી ચેવડા
+198,198,Fried Cashew Masala,ફ્રાઇડ કાજુ મસાલા  
+199,199,Fried Cashew Salted,ફ્રાઇડ કાજુ સૉલ્ટેડ  
+200,200,Chana Jor Garam,ચના જોર ગરમ     
+201,201,Chana Dal Standy,ચના દાલ સ્ટેન્ડી  
+202,202,Tikhi Sev,તીખી સેવ    
+203,203,Lahsun Sev,લસણ સેવ
+204,204,Ratlami Sev,રતલામી સેવ
+205,205,Punjabi Tadka,પંજાબી તડકા     
+206,206,Papad Chavana,પાપડ ચવાના     
+207,207,Bowlz Masala,બાઉલ્ઝ મસાલા    
+208,208,Minipipez Masala,મીનીપિપ્ઝ મસાલા 
+209,209,Minipipez Salted,મીનીપિપ્ઝ સૉલ્ટેડ
+210,210,Bowlz Mast Tomato,બાઉલ્ઝ મસ્ત ટમેટો     
+211,211,Tobacco,તમાકુ
+212,212,Tobacco,તમ્બાકુ
+213,213,zero,શૂન્ય
+214,214,one,એક
+215,215,two,બે
+216,216,three,ત્રણ
+217,217,four,ચાર
+218,218,five,પાંચ
+219,219,six,છ
+220,220,seven,સાત
+221,221,eight,આઠ
+222,222,nine,નવ
+223,223,ten,દસ
+224,224,eleven,અગિયાર
+225,225,twelve,બાર
+226,226,thirteen,તેર
+227,227,fourteen,ચૌદ
+228,228,fifteen,પંદર
+229,229,sixteen,સોળ
+230,230,seventeen,સત્તર
+231,231,eighteen,અઢાર
+232,232,nineteen,ઓગણિસ
+233,233,twenty,વીસ
+234,234,Twenty one,એકવીસ
+235,235,Twenty two,બાવીસ
+236,236,Twenty three,તેવીસ
+237,237,Twenty four,ચોવીસ
+238,238,Twenty five,પચ્ચીસ
+239,239,Twenty six,છવીસ
+240,240,Twenty seven,સત્તાવીસ
+241,241,Twenty eight,અઠ્ઠાવીસ
+242,242,Twenty nine,ઓગણત્રીસ
+243,243,Thirty,ત્રીસ
+244,244,Thirty one,એકત્રીસ
+245,245,Thirty two,બત્રીસ
+246,246,Thirty three,તેત્રીસ
+247,247,Thirty four,ચોત્રીસ
+248,248,Thirty five,પાંત્રીસ
+249,249,Thirty six,છત્રીસ
+250,250,Thirty seven,સડત્રીસ
+251,251,Thirty eight,અડત્રીસ
+252,252,Thirty nine,ઓગણચાલીસ
+253,253,forty,ચાલીસ
+254,254,Forty one,એકતાલીસ
+255,255,Forty two,બેતાલીસ
+256,256,Forty three,ત્રેતાલીસ
+257,257,Forty four,ચુંમાલીસ
+258,258,Forty five,પિસ્તાલીસ
+259,259,Forty six,છેતાલીસ
+260,260,Forty seven,સુડતાલીસ
+261,261,Forty eight,અડતાલીસ
+262,262,Forty nine,ઓગણપચાસ
+263,263,Fifty,પચાસ
+264,264,Fifty one,એકાવન
+265,265,Fifty two,બાવન
+266,266,Fifty three,ત્રેપન
+267,267,Fifty four,ચોપન
+268,268,Fifty five,પંચાવન
+269,269,Fifty six,છપ્પન
+270,270,Fifty seven,સત્તાવન
+271,271,Fifty eight,અઠ્ઠાવન
+272,272,Fifty nine,ઓગણસાઠ
+273,273,sixty,સાઈઠ
+274,274,Sixty one,એકસઠ
+275,275,Sixty two,બાસઠ
+276,276,Sixty three,ત્રેસઠ
+277,277,Sixty four,ચોસઠ
+278,278,Sixty five,પાંસઠ
+279,279,Sixty six,છાસઠ
+280,280,Sixty seven,સડસઠ
+281,281,Sixty eight,અડસઠ
+282,282,Sixty nine,અગણોસિત્તેર 
+283,283,seventy,સિત્તેર
+284,284,seventy one,એકોતેર
+285,285,seventy two,બોતેર
+286,286,seventy three,તોતેર
+287,287,seventy four,ચુમોતેર
+288,288,seventy five,પંચોતેર
+289,289,seventy six,છોતેર
+290,290,seventy seven,સિત્યોતેર
+291,291,seventy eight,ઇઠ્યોતેર
+292,292,seventy nine,ઓગણાએંસી
+293,293,eighty,એંસી
+294,294,eighty one,એક્યાસી
+295,295,eighty two,બ્યાસી
+296,296,eighty three,ત્યાસી
+297,297,eighty four,ચોર્યાસી
+298,298,eighty five,પંચાસી
+299,299,eighty six,છ્યાસી
+300,300,eighty seven,સિત્યાસી
+301,301,eighty eight,ઈઠ્યાસી
+302,302,eighty nine,નેવ્યાસી
+303,303,ninety,નેવું
+304,304,ninety one,એકાણું
+305,305,ninety two,બાણું
+306,306,ninety three,ત્રાણું
+307,307,ninety four,ચોરાણું
+308,308,ninety five,પંચાણું
+309,309,ninety six,છન્નું
+310,310,ninety seven,સત્તાણું
+311,311,ninety eight,અઠ્ઠાણું
+312,312,ninety nine,નવ્વાણું
+313,313,hundred,સો

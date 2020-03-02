@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_file_viewer"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.danielkim.soundrecorder.fragments.FileViewerFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/llUploadFile" />
+
+    <LinearLayout
+        android:id="@+id/llUploadFile"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/accent_dark"
+        android:gravity="center_vertical"
+        android:padding="8dp"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Upload file to Server"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</RelativeLayout>
